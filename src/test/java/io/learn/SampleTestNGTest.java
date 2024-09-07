@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class SampleTestNGTest {
 
-    @Test
+    @Test(description = "My first test")
     public void testAddPositive() {
         Assert.assertEquals(Calculator.add(3, 5), 8);
     }
