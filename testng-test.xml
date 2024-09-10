@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Sample Tests-1">
+        <classes>
+            <class name="io.learn.BeforeAfterMethodTest"/>
+            <class name="io.learn.BeforeAfterTestTagTest"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="Sample Tests-2">
+        <classes>
+            <class name="io.learn.BeforeAfterClassTest"/>
+            <class name="io.learn.BeforeAfterTestTagTest"/>
+        </classes>
+    </test>
+</suite>
