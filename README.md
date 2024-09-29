@@ -12,6 +12,7 @@ Welcome to the **TestNG** repository! This repository is created to help student
 - [Setup Instructions](#setup-instructions)
 - [Running Tests](#running-tests)
 - [Key TestNG Concepts Covered](#key-testng-concepts-covered)
+- [Presentation Deck](TestNGDeck.pdf)
 
 ## Overview
 
